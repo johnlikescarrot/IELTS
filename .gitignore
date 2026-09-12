@@ -1,0 +1,6 @@
+# Build/working files (audio extracts, video frames, transcripts — large, regenerable)
+_work/
+__pycache__/
+*.pyc
+book/_cover.pdf
+book/_main.pdf
