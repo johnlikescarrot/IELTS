@@ -27,7 +27,8 @@ Rebuild with: `pip install reportlab pypdf Pillow && python3 book/build_pdf.py`
 
 | Part | Content |
 |---|---|
-| 1–2 | Listening: form/note/table completion, multiple choice, maps, Section 3–4 lectures |
+| 1 | Listening foundations: form/note/table completion, prediction, numbers/dates/spelling |
+| 2 | Listening Sections 3–4 → Reading foundations (formats, question types) |
 | 3–4 | Reading: skimming/scanning/synonyms, True/False/Not Given, all question types |
 | 5–7 | Speaking: 4 criteria, verb tenses, Parts 1–3, cue cards, pronunciation |
 | 8–9 | Writing Task 1 Academic: scoring, overview, sentence patterns, trend language |

@@ -99,7 +99,7 @@
 | Part | Length | Core content (as transcribed & studied) | Book chapters |
 |---|---|---|---|
 | 1 | ~57.5 min | Listening S1 foundations: Dubai Palm Apartments form; prediction; numbers/dates/ordinals; spelling & P/B sounds | 3–5 |
-| 2 | ~57.5 min | Listening S3–S4: Self-Access Centre answers; business-culture lecture; distractors & agreement language | 3–5 |
+| 2 | ~57.5 min | Listening S3–S4 opening (Self-Access Centre answers, business-culture lecture) → Reading foundations (Academic/GT formats, quiz, question types) | 3–8 |
 | 3 | ~57.5 min | Reading method: "test of 2 things"; keywords + synonyms; skimming/scanning/detail | 6–8 |
 | 4 | ~57.5 min | Reading TFNG: Thames Tunnel full walkthrough; contradiction vs absence | 6–8 |
 | 5 | ~57.5 min | Speaking intro: productive skills; examiner & criteria; timing (11–14 min) | 9–10 |
