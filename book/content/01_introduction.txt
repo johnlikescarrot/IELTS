@@ -1,0 +1,139 @@
+# 1. Welcome to IELTS
+
+## What IELTS Is
+
+**IELTS** (the *International English Language Testing System*) is the world’s most widely used English-language proficiency test. It is jointly owned by the **British Council**, **IDP: IELTS Australia** and **Cambridge Assessment English**, and it is accepted by universities, employers, immigration departments and professional bodies in most English-speaking countries.
+
+The test measures your ability to use English in four skills — **Listening, Reading, Writing and Speaking** — and reports each skill, plus an overall result, on a **nine-band scale** (Band 1 = non-user up to Band 9 = expert user). There is **no pass or fail**: your target band is set by the institution or organisation that requires the test.
+
+## Academic or General Training?
+
+There are **two modules**, and you must sit the right one.
+
+[[table:Academic vs General Training]]
+| | Academic | General Training |
+| Who takes it | University entry (undergraduate/postgraduate), professional registration | Migration, secondary education, work experience, training |
+| Reading texts | 3 long academic passages | 5 shorter everyday-life texts |
+| Writing Task 1 | Describe a graph, chart, table, map or process (a report) | Write a letter |
+| Writing Task 2 | Same essay task for both | Same essay task for both |
+| Listening & Speaking | Identical for both modules | Identical for both modules |
+
+> TIP: If your goal is **study** at university, take **Academic**. If your goal is **migration or work**, take **General Training** — but always check with the institution first, because requirements vary.
+
+## The Test at a Glance
+
+[[table:The four components]]
+| Component | Time | Questions / Tasks | What you do |
+| Listening | 30 min audio + 10 min transfer | 40 questions, 4 sections | Listen once, answer as you listen |
+| Reading | 60 minutes | 40 questions, 3 sections | Read passages and answer |
+| Writing | 60 minutes | 2 tasks | Task 1 (report/letter) + Task 2 (essay) |
+| Speaking | 11–14 minutes | 3 parts | Talk with one examiner |
+
+The **Listening, Reading and Writing** tests are taken in one sitting, in that order, with no break. The **Speaking** test may be taken on the same day, a few days before, or a few days after — depending on the availability of examiners — and you will be told the time by email or SMS (typically about 48 hours before the test).
+
+## Paper or Computer?
+
+The test content and scoring are **identical** on paper and on computer. The choice is only about how you deliver it.
+
+[[table:Paper vs computer]]
+| Feature | Paper test | Computer test |
+| Answering | Write with a pencil on an answer sheet | Type on screen |
+| Word count (Writing) | Count words manually | Automatic word counter |
+| Editing | Erase and rewrite | Copy, cut, paste; highlight text (right-click) |
+| Reading screen | One booklet, flip pages | Split screen: passage one side, questions the other |
+| Search | Not applicable | **Ctrl+F is NOT allowed** |
+| Results | ~13 days | ~3–5 days |
+
+> REMEMBER: Even for the computer-delivered test, and even if your Speaking test is conducted by video link, **you must attend the test venue in person** — you cannot take the test at home.
+
+## Before Test Day: Registration Essentials
+
+- Book with a valid **identity document** (passport or national ID) and **bring the very same document** to the test. If you book with your ID, a passport will not be accepted, and vice versa. Candidates are turned away for this every single test day.
+- **Arrive early** — about **one hour before** your scheduled time is advisable. Registration is a long procedure: identity check, photograph and fingerprinting.
+- **If you arrive after the test has started, you will not be admitted.**
+- Mobile phones, wallets, bags and watches must be left outside the test room. **Even a plain wristwatch is not allowed**; the time is shown on a screen in the room.
+- If you have a **speech condition** (for example, stammering) or any other special requirement, **tell the centre when you book** — the Speaking examiner is informed and will take it into account.
+
+## What Happens on Test Day
+
+1. You register, have your photo and fingerprints taken, and are shown to your seat.
+2. **Listening** (30 min audio + 10 min transfer), then **Reading** (60 min), then **Writing** (60 min).
+3. Your **Speaking** interview, unless it is scheduled for another day.
+
+> WARNING: The Reading test has **no transfer time**. You must write or type each answer directly onto the answer sheet as you go — otherwise you will score **zero** even if you knew every answer.
+
+# 2. Understanding Scores
+
+## The Nine-Band Scale
+
+Each of the four skills is reported as a whole or half band from **0 to 9**.
+
+[[table:Band scale summary]]
+| Band | User | Meaning (short) |
+| 9 | Expert | Fully operational command; accurate, fluent, complete understanding |
+| 8 | Very good | Fully operational with only occasional unsystematic errors |
+| 7 | Good | Operational command with occasional inaccuracies; handles complex language |
+| 6 | Competent | Effective command with some inaccuracies; can use fairly complex language |
+| 5 | Modest | Partial command; copes with overall meaning but makes many mistakes |
+| 4 | Limited | Basic competence in familiar situations only |
+| 3 | Extremely limited | Understands only general meaning in very familiar situations |
+| 2 | Intermittent | Great difficulty understanding speech and writing |
+| 1 | Non-user | Essentially no ability beyond a few isolated words |
+| 0 | Did not attempt | No assessable information provided |
+
+## How the Overall Band Is Calculated
+
+Your **Overall Band Score** is the **average of the four component scores, rounded to the nearest half band**:
+
+- Average ends in **.25** → rounded **up** to the next .5 (e.g. 6.25 → 6.5).
+- Average ends in **.75** → rounded **up** to the next whole band (e.g. 6.75 → 7.0).
+- Average ends in **.125** → rounded **down** to the previous whole band (e.g. 6.125 → 6.0).
+
+**Example:** Listening 6.5 + Reading 6.5 + Writing 6.0 + Speaking 6.0 = 25.0 ÷ 4 = **6.25 → Overall 6.5**.
+
+## Listening and Reading: Raw Score → Band
+
+Listening and Reading each have **40 questions, one mark each**. The number of correct answers (your **raw score**) is converted to a band using a table. The tables below are the standard published conversions; **the exact boundaries vary slightly from one test paper to another**.
+
+[[table:Listening band conversion (same for Academic & GT)]]
+| Band | 9 | 8.5 | 8 | 7.5 | 7 | 6.5 | 6 | 5.5 | 5 | 4.5 |
+| Correct answers | 39–40 | 37–38 | 35–36 | 32–34 | 30–31 | 26–29 | 23–25 | 18–22 | 16–17 | 13–15 |
+
+[[table:Academic Reading band conversion]]
+| Band | 9 | 8.5 | 8 | 7.5 | 7 | 6.5 | 6 | 5.5 | 5 | 4.5 |
+| Correct answers | 39–40 | 37–38 | 35–36 | 33–34 | 30–32 | 27–29 | 23–26 | 19–22 | 15–18 | 13–14 |
+
+[[table:General Training Reading band conversion]]
+| Band | 9 | 8.5 | 8 | 7.5 | 7 | 6.5 | 6 | 5.5 | 5 | 4.5 |
+| Correct answers | 40 | 39 | 37–38 | 36 | 34–35 | 32–33 | 30–31 | 27–29 | 23–26 | 19–22 |
+
+> NOTE: General Training Reading texts are easier, so GT **requires more correct answers for the same band**. This is why GT and Academic candidates can earn the same band fairly. (The source course makes exactly this point: a high band in Academic needs slightly fewer raw marks than in GT, which compensates for the harder texts.)
+
+## Writing and Speaking: Four Criteria Each
+
+Writing and Speaking are marked by trained examiners against **four published criteria**, each worth 25% of the component score.
+
+**Writing (Task 1)** — Task Achievement, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy.
+**Writing (Task 2)** — Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy.
+**Speaking** — Fluency & Coherence, Lexical Resource, Grammatical Range & Accuracy, Pronunciation.
+
+> IMPORTANT: Examiners do **not** mark your opinions, your ideas or your handwriting beauty. They mark **how well** you express yourself — accuracy, range, organisation and pronunciation. Never fear expressing a “wrong” opinion; there is no such thing in IELTS.
+
+## How the Writing Score Is Weighted
+
+Writing has two tasks, but they are **not** equal:
+
+- **Task 1 = one third** of the Writing mark.
+- **Task 2 = two thirds** of the Writing mark.
+
+Your Writing band = **(Task 1 + 2 × Task 2) ÷ 3**, rounded to the nearest half band.
+
+**Example:** Task 1 = Band 7.0, Task 2 = Band 8.0 → (7 + 16) ÷ 3 = 7.67 → rounded to **7.5**.
+
+This is why you are strongly advised to spend about **20 minutes on Task 1 and 40 minutes on Task 2**, and why many teachers tell you to **write Task 2 first**.
+
+## How Long Does It Take to Improve?
+
+A widely used rule of thumb — repeated in the source course — is that **raising your overall band by half a band takes roughly 100 hours of focused study**. This is not discouraging; it is a planning tool. A candidate at Band 5.0 who wants Band 6.5 should plan for around 300 hours of work, spread over 2–4 months. Chapter 19 turns this into concrete weekly schedules.
+
+Now practise: open any IELTS band-descriptor table online and read the Band 7 descriptions for each criterion — you will see that every technique in this book targets exactly those descriptors.

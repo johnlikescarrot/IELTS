@@ -1,0 +1,88 @@
+# 13. Writing Task 2 — The Essay
+
+## What Task 2 Is
+
+Task 2 is the **same for Academic and General Training**. You write an **essay** of at least **250 words** (aim 260–280) in about **40 minutes**, giving and supporting your opinion on a social topic.
+
+It carries **two-thirds** of your Writing mark, so it deserves the larger share of your time and effort.
+
+## The Five Essay Types
+
+Learn to recognise the instruction words, because they change your structure.
+
+[[table:The five essay types]]
+| Type | Typical instructions | What you must do |
+| Opinion | To what extent do you agree or disagree? | Give a clear position and support it |
+| Discussion | Discuss both views and give your own opinion | Cover both sides + your view |
+| Advantages / Disadvantages | What are the advantages and disadvantages? Do the advantages outweigh the disadvantages? | Cover both sides; if asked, say which is greater |
+| Problems / Solutions | What are the problems and what solutions can you suggest? | Identify problems, propose solutions |
+| Double question | Why is this happening? Is it a positive or negative development? | Answer **both** questions |
+
+> WARNING: The most common Task Response failure is **answering only half the question**. If it says “discuss both views **and** give your opinion”, you must do all three — a missing element caps you at about Band 5.
+
+## The Four-Paragraph (or Five-Paragraph) Structure
+
++ **Introduction** — paraphrase the question, state your **position** clearly in a **thesis statement**.
++ **Body 1** — one clear idea (your first reason / the first view), developed with explanation and example.
++ **Body 2** — one clear idea (your second reason / the other view).
++ **(Body 3)** — optional third idea for a five-paragraph essay.
++ **Conclusion** — restate your position and summarise your main points. **Never** introduce a new idea here.
+
+> REMEMBER: 2 body paragraphs = 4 paragraphs total; 3 body paragraphs = 5 total. Never fewer than 4, never more than 5. **No conclusion = Band 5 maximum**, even if you wrote 300 excellent words.
+
+## The Thesis Statement
+
+The thesis statement is the sentence (usually the last of the introduction) that tells the reader **your position** on the question. Everything in the body supports it.
+
+**Question:** *Advances in technology and automation have reduced the need for manual labour. Therefore, working hours should be reduced. To what extent do you agree or disagree?*
+
+<<<
+Thesis: While automation has certainly reduced the need for manual work, I largely disagree that working hours should be cut, because such a change would be impractical for many employers and could widen inequality.
+>>>
+
+## Topic Sentences
+
+Begin **each body paragraph with a topic sentence** that announces that paragraph’s idea — the reader should know what the paragraph argues before reading it.
+
+<<<
+Body 1 topic sentence: The first reason working hours should not be universally reduced is that many industries still depend on human judgement and availability.
+Body 2 topic sentence: Furthermore, a blanket reduction in hours would fail to recognise the very different conditions across occupations.
+>>>
+
+> TIP: The source course tells a memorable (cautionary) story of a student who wrote about camels in every essay, whatever the topic — off-topic writing scores zero regardless of how good the English is. **Stay inside the question’s scope.** If the topic is “the internet **at schools**”, do not wander into “the internet in general” (video calls with distant relatives, online shopping…).
+
+## Coherence and Cohesion in the Essay
+
++ **Coherence** = logical order. Causes before solutions; introduction → body → conclusion; no jumping backwards. A well-ordered essay reads like a plan.
++ **Cohesion** = the glue. Use linking words (*to begin with, on the one hand, on the other hand, however, in addition, moreover, besides, consequently, therefore*) and refer back with pronouns and synonyms.
++ **One paragraph = one central idea.** Do not mix an advantage and a disadvantage in the same paragraph; give each idea its own paragraph.
++ **Do not invent statistics** (“research shows that 80% of students…”). You are not an encyclopaedia, and invented data is a hallmark of memorised, low-quality writing. Explain and give **real-world examples** instead.
+
+## The Don’ts List
+
++ No headings, no subheadings, no bullet points, no numbering.
++ Do not write “introduction / body / conclusion” as labels.
++ Do not copy the question — **paraphrase** it in your introduction.
++ Do not use contractions heavily (*don’t, can’t*) in a formal essay; write them out (*do not, cannot*).
++ Do not write a one-sentence paragraph.
++ Do not leave out examples — every main idea needs one.
+
+## A Model Essay
+
+**Question:** *Advances in technology and automation have reduced the need for manual labour. Therefore, working hours should be reduced. To what extent do you agree or disagree?*
+
+<<<
+In recent decades, machines and software have taken over many tasks that were once performed by hand, and some people argue that, as a result, employees should work fewer hours. While this idea is appealing, I largely disagree, because a universal reduction in working hours would be impractical for many employers and could increase inequality.
+
+To begin with, although automation has removed some manual jobs, it has created new demands for human judgement, creativity and availability. Doctors, teachers, engineers and care workers cannot simply work fewer hours without consequences for the people who depend on them. For example, hospitals must be staffed around the clock, and reducing nurses’ hours without hiring more staff would lower the quality of care. In such fields, the number of hours is set by necessity rather than by the availability of machines.
+
+Furthermore, a blanket reduction in working hours would affect different workers in very different ways. Highly skilled employees, whose productivity has been boosted by technology, might benefit from shorter weeks with no loss of pay. However, lower-paid workers in the service sector, where technology cannot replace a waiter or a cleaner, would either lose income or be expected to do the same work in less time. Rather than closing the gap between rich and poor, such a policy could widen it.
+
+Admittedly, there is a case for more flexibility. Companies could offer shorter weeks where automation has genuinely made work more efficient, and governments could encourage remote working. Nevertheless, these measures should be targeted and voluntary, not imposed as a single rule for everyone.
+
+In conclusion, while automation has transformed the workplace, I believe that a general reduction in working hours is not the right response. A more sensible approach is to allow flexibility where it is practical, while protecting the incomes and conditions of those whose work cannot be automated.
+>>>
+
+Notice: a paraphrased introduction with a clear thesis; two body paragraphs each opened by a topic sentence and supported with examples; a concession (“Admittedly…”); a conclusion that restates the position; and cohesive devices throughout.
+
+Now practise: write **only** the introduction and thesis statement for five different Task 2 questions. Then, for one of them, write the topic sentence for each body paragraph. This drills the two hardest parts of essay structure.

@@ -1,0 +1,62 @@
+[[[TOC]]]
+
+# About This Book
+
+This book is the result of a **complete, end-to-end study of a twelve-hour IELTS preparation video course** — the *“IELTS 12 Hours Full Course for Beginners 2023 — Master-Course of 4 Components”* — in which an experienced IELTS instructor teaches every part of the test, component by component, for both the **Academic** and **General Training** modules.
+
+Every technique, strategy, rule, example and piece of advice in those twelve hours of teaching has been identified, organised, expanded and rewritten into the structured, readable reference you are holding. Nothing important has been left out: the question types, the step-by-step methods, the model answers, the vocabulary, the band-score arithmetic and the hundreds of small “insider” details that separate a prepared candidate from an unprepared one.
+
+**How to read this book.** You do not need to read it cover to cover. Use it in two ways:
+
+- **As a course** — read it in order, one chapter per day, and do the practice tasks as you meet them.
+- **As a reference** — jump to the component you are working on, using the Contents and the Quick-Reference Checklists in the final chapters.
+
+**Who this book is for.** Anyone preparing for IELTS, whether you are a true beginner who has never seen the test or a repeat candidate who needs a band 7.0 or higher for university, work or migration. The strategies here work for every band target; where a technique changes according to your target band, the book says so explicitly.
+
+**A note on the course it is based on.** The original course was delivered live over several sessions and covered the four components in this order: **Listening → Reading → Writing → Speaking**, with Writing divided into Task 1 (Academic report and General Training letter) and Task 2 (essay). This book follows the same logical order.
+
+# How the Course Maps to This Book
+
+The twelve video parts of the source course correspond to this book as follows:
+
+[[table:Mapping of the 12 video parts to the chapters of this book]]
+| Video Part | Course Content | Book Chapters |
+| Part 1 | Listening: question types, instructions, spelling, numbers, maps | Ch. 3–5 |
+| Part 2 | Listening Section 4 + Reading overview & strategy | Ch. 3–5, 6–7 |
+| Part 3 | Reading: 4-step method, sub-skills, True/False/Not Given | Ch. 7–9 |
+| Part 4 | Reading: Matching Headings, Yes/No/Not Given, matching people | Ch. 8–9 |
+| Part 5 | Speaking: format, the four band criteria, fluency | Ch. 15–16 |
+| Part 6 | Speaking: pronunciation, British vs American, logistics | Ch. 16 |
+| Part 7 | Speaking: live interviews, Part 2 & 3 technique | Ch. 17 |
+| Part 8 | Writing Task 1 (Academic): overview, introduction & overview formulas | Ch. 11 |
+| Part 9 | Writing Task 1: trend language and body paragraphs | Ch. 11 |
+| Part 10 | Writing Task 2: structure, task response, coherence & cohesion | Ch. 13 |
+| Part 11 | Writing: cohesive devices (linkers) and grammar range | Ch. 14 |
+| Part 12 | Writing Task 1 (General Training): letters + sentence patterns | Ch. 12 |
+
+> NOTE: The original course also shared supplementary PDFs (map-labelling practice, model answers, synonyms lists) with its students. The equivalent material has been built directly into this book — the trend-language tables, the band-score tables, the model answers and the vocabulary banks.
+
+# A Quick Tour of the IELTS Test
+
+Before you begin, here is the whole test on one page. IELTS is taken in **four components**, always in this order:
+
+1. **Listening** — 30 minutes of audio + 10 minutes to transfer answers. 40 questions, 4 sections.
+2. **Reading** — 60 minutes. 40 questions, 3 sections. **No** extra transfer time.
+3. **Writing** — 60 minutes. 2 tasks: Task 1 (report or letter) and Task 2 (essay).
+4. **Speaking** — 11–14 minutes. 3 parts, face to face with one examiner (or via video).
+
+The whole test is scored on the **9-band scale**, with half bands (6.5, 7.5) in between. Listening and Reading are marked by counting correct answers; Writing and Speaking are marked by a trained examiner against four published criteria.
+
+# How to Use This Book
+
+- **Beginners:** read Chapters 1–2 first, then work through the four components in order, finishing with the study plan in Chapter 19.
+- **Band 6.0+ candidates:** skim Chapters 1–2, then focus on the technique chapters (7, 8, 11, 13, 16, 17) and the model-answer bank.
+- **Teachers:** the book follows the structure of the source course and can be taught lesson by lesson; each chapter ends with a “Now practise” box.
+
+**Conventions used in this book**
+
+- **Bold** marks key terms, rules and things to memorise.
+- *Italics* mark example words and phrases to notice.
+- Shaded boxes marked **TIP**, **NOTE**, **REMEMBER** or **WARNING** contain advice you should not skip.
+- Indented, bordered blocks contain **model answers** — read them aloud, copy them by hand, and notice the vocabulary and structures they use.
+- Tables give you lists to memorise (trend language, linkers, band scores, question types).

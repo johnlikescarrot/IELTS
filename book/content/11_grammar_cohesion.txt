@@ -1,0 +1,95 @@
+# 14. Grammar and Cohesion Toolkit
+
+This chapter collects the grammar that most directly raises your Writing (and Speaking) band score. It is the “linkers lesson” from the source course, expanded into a reference.
+
+## The Three Sentence Types
+
++ **Simple sentence** — one clause: *The number of arrests fell.*
++ **Compound sentence** — two independent clauses joined by a **coordinator (FANBOYS)**: *The number of arrests fell, **and** the price rose.*
++ **Complex sentence** — an independent clause + a **dependent clause** introduced by a linker: ***Although** the number of arrests fell, the price rose.*
+
+> WARNING: If **most** of your sentences are simple, your Grammar band is capped at about **5** for both Writing and Speaking. Aim to mix all three, with a good share of complex sentences.
+
+## FANBOYS (Making Compound Sentences)
+
+**F**or · **A**nd · **N**or · **B**ut · **O**r · **Y**et · **S**o
+
++ Join two full sentences with a **comma before** the coordinator: *She studied hard, so she passed.*
++ Do not use a comma before *and* when it simply joins two nouns: *bread and butter*.
+
+## Contrast Linkers
+
+[[table:Contrast linkers — how to use each]]
+| Linker | Followed by | Example |
+| however | (special) | John studied hard; **however**, he did not get a high score. |
+| although / though / even though | a full clause | **Although** John studied hard, he did not get a high score. |
+| in spite of / despite | a noun or -ing form | **In spite of** studying hard, he did not get a good score. |
+| while / whereas | a full clause | John passed, **whereas** his brother failed. |
+
+The rules to memorise:
+
++ **however** usually starts a new sentence (or follows a semicolon) and takes a comma after it: *…; however, …*
++ **although / though / even though** take a full clause. No comma when they come in the middle: *He didn’t get a good score although he studied hard.*
++ **in spite of / despite** take a **noun or -ing verb**, never a full clause: *in spite of studying hard* (not “in spite of he studied hard”). No comma before them in the middle: *He didn’t get a good score in spite of studying hard.*
+
+## Cause Linkers
+
++ **because** + clause: *He got a high score **because** he studied hard.* (no comma in the middle; comma after if at the beginning)
++ **because of / due to / owing to** + noun/-ing: ***Owing to** studying hard, he got a high score.* (comma after when at the start)
+
+## Result Linkers
+
++ **consequently / therefore / thus / as a result / as a consequence** — begin a sentence, followed by a comma: *He studied hard. **Consequently,** he got a high score.*
+
+> WARNING: Use the **right** linker for the meaning. “However” shows contrast; if you use it to add information, you spoil the sentence’s meaning (and your Coherence & Cohesion score). “Thus/therefore/consequently” show result — they are not reasons.
+
+## Dependent Clauses
+
+The part introduced by a conjunction is the **dependent** clause — it cannot stand alone.
+
+<<<
+“Because he studied hard” — incomplete. (Because he studied hard, he passed. ✓)
+“Although it was raining” — incomplete. (Although it was raining, they played. ✓)
+>>>
+
+A sentence that is really a dependent clause is a **fragment** and is a serious grammar error.
+
+## Tense: Present Perfect vs Past Simple
+
+This is the most common Speaking (and Writing) tense error, taught at length in the course.
+
+[[table:Present perfect vs past simple]]
+| Rule | Example |
+| Present perfect (have/has + past participle) focuses on the **action**, with **no time marker**. | I **have bought** a new car. I **have visited** London. |
+| Past simple focuses on the **time**, with a time marker (yesterday, last week, in 2020). | I **bought** a new car **last week**. |
+| Future with a future time marker. | I **will buy** a new car **next week**. |
+
+<<<
+✗ I have bought a new car last week.  (present perfect + time marker = wrong)
+✓ I bought a new car last week.
+✗ I will visit my relatives last week.  (future + past time = wrong)
+✓ I visited my relatives last week. / I will visit my relatives next week.
+>>>
+
+> TIP: The time marker decides the tense. *Yesterday/last week/in 2015* → past simple. *Tomorrow/next week/in 2025* → future. *Ever/never/already/just/yet* → present perfect.
+
+## Common Errors to Eliminate
+
++ **Word forms:** *a success businessman* → **a successful businessman**; *he is a very success man* → **successful**.
++ **Subject–verb agreement:** *The number of arrests **were*** → **was** (the number is singular).
++ **Countable/uncountable:** *many informations* → **much information**; *some advices* → **some advice**.
++ **Articles:** *I am teacher* → **I am a teacher**; *the internet* (with “the”).
++ **Comparatives:** *more easier* → **easier**; *much more easier* → **much easier**.
++ **Double negatives:** *I don’t have nothing* → **I don’t have anything**.
++ **Prepositions:** *depend of* → **depend on**; *married with* → **married to**.
+
+## Cohesion in Practice
+
+A cohesive answer repeats and links ideas without repeating words:
+
+<<<
+Weak: I like reading. Reading is good. Reading helps me relax.
+Strong: I am a keen reader. It is a hobby that helps me unwind after a long day, and it has also broadened my vocabulary considerably.
+>>>
+
+Now practise: take the last essay you wrote and highlight every linking word. If you find fewer than one linker per two sentences, rewrite the essay adding contrast, cause and result linkers from this chapter.

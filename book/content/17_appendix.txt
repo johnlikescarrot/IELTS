@@ -1,0 +1,65 @@
+# Appendix A — Full Course Map
+
+The twelve parts of the source video course, with the main topics each covered:
+
+[[table:Course map — all 12 parts]]
+| Part | Component | Main topics covered |
+| 1 | Listening | Instructions & word limits; the 5 answer forms; spelling names (double letters, B/P); numbers & dates; prediction; form completion (holiday apartment); note completion (expedition candidate); Section 2: note completion, multiple choice, map labelling (wildlife club / parks); Section 3: multiple choice + completion (self-access centre) |
+| 2 | Listening → Reading | Section 4 note completion (business cultures); listening band conversion; Reading overview: 60 min, 40 Q, 3 sections, no transfer time; Academic vs GT; paper vs computer; time management; question types; synonyms |
+| 3 | Reading | The “poem” lesson (gist without every word); the four-step method; skimming / scanning / reading for detail; topic sentences; True/False/Not Given (Thames Tunnel practice) |
+| 4 | Reading | Matching headings (spices passage); Yes/No/Not Given (handedness); matching people to findings; band conversion Academic vs GT |
+| 5 | Speaking | Test format (11–14 min, 3 parts); the four criteria; fluency & coherence; lexical resource (paraphrase, word forms); grammar (present perfect vs past simple); pronunciation overview |
+| 6 | Speaking | Pronunciation in depth (BrE vs AmE, flap T, -ed endings, word families); logistics & FAQ (recording, ID, dress, body language, inventing stories, tenses) |
+| 7 | Speaking | Live mock interviews; Part 2 method (keywords, starters, keep talking); Part 3 generalising frames; the 100-hours rule |
+| 8 | Writing Task 1 (Ac) | Task 1 vs Task 2 weighting; visual types; the four criteria; Task Achievement; the introduction formula; the overview formula |
+| 9 | Writing Task 1 (Ac) | Trend language (verbs/nouns/adjectives/adverbs); body paragraphs with figures; sentence patterns (there was / subject-verb / year witnessed); a full model report |
+| 10 | Writing Task 2 | Paragraph count; thesis statement; Task Response (off-topic warning); Coherence & Cohesion (logical order, topic sentences, one idea per paragraph) |
+| 11 | Writing | Cohesive devices in detail (however, although, in spite of, because of, consequently); sentence types; dependent clauses; essay format dos/don’ts |
+| 12 | Writing Task 1 (GT) | The letter: tone (formal/semi-formal/informal), five-paragraph structure, salutations & closings, openings & concluding sentences; model letters |
+
+# Appendix B — Additional Model Answers
+
+## A Model Advantages/Disadvantages Essay
+
+**Question:** *Some people believe that studying at university is the best route to a successful career, while others think it is better to start work straight after school. Discuss both views and give your own opinion.*
+
+<<<
+People have different views about whether a university education or an early start in employment is the better path to a successful career. While working straight after school has clear advantages for some, I believe that, for most people, a university degree offers the stronger foundation.
+
+On the one hand, there are good reasons to start work immediately. Some young people learn best by doing, and industries such as skilled trades, hospitality and information technology often value practical experience more than formal qualifications. Entering the workforce early also means earning a salary sooner, avoiding years of tuition fees, and gaining a head start in climbing the career ladder. For someone with a clear vocational goal, a degree can even feel like an unnecessary delay.
+
+On the other hand, a university education develops skills that are hard to acquire on the job. It teaches critical thinking, independent research and the ability to communicate complex ideas, all of which are prized by employers in professional fields such as medicine, law, engineering and academia. Furthermore, graduates, on average, still enjoy higher lifetime earnings and better job security, and universities provide the networks that open doors later in a career.
+
+In my opinion, the best choice depends on the individual and the career they want. However, for anyone aiming at a profession that requires specialist knowledge, university is not merely useful but essential. A sensible approach is for students to weigh their goals carefully and, where possible, combine study with part-time work or internships.
+
+In conclusion, although starting work straight after school suits some people and some careers, I believe a university education remains the most reliable route to long-term success for the majority.
+>>>
+
+## A Model Part 3 Answer (Festivals)
+
+<<<
+Q: Are there any kinds of festivals that are becoming more popular in your country?
+A: Yes, I think music and food festivals are becoming noticeably more popular, especially among young people. Generally speaking, these events are heavily promoted on social media, so they attract large crowds from all over the country. I believe this reflects a broader trend: people today value experiences over possessions, and festivals offer a chance to enjoy live entertainment and try new food in a lively atmosphere. That said, some traditional religious festivals are losing their original spirit, as they have become more commercial over time.
+>>>
+
+# Appendix C — Glossary of IELTS Terms
+
+[[table:Glossary]]
+| Term | Meaning |
+| Band score | Your result on the 9-level scale (whole or half bands) |
+| Raw score | Number of correct answers (out of 40) in Listening/Reading |
+| Overall band | The average of the four component scores, rounded to the nearest half band |
+| Task Achievement | Criterion: did you fully complete Writing Task 1? |
+| Task Response | Criterion: did you fully answer the essay question? |
+| Coherence | Logical ordering of ideas |
+| Cohesion | How ideas are linked with connectors, pronouns, synonyms |
+| Lexical Resource | Vocabulary range and accuracy |
+| Grammatical Range & Accuracy | Sentence variety and grammatical correctness |
+| Overview | The summary sentence(s) of main trends in a Task 1 report |
+| Thesis statement | The sentence stating your position in an essay introduction |
+| Topic sentence | The sentence stating the main idea of a paragraph |
+| Paraphrase | Expressing the same meaning in different words |
+| Skimming | Fast reading for the main idea |
+| Scanning | Fast reading to find specific information |
+| Distractor | A wrong option that sounds right |
+| Cue card | The topic card you speak about in Speaking Part 2 |

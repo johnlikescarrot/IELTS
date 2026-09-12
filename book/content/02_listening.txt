@@ -1,0 +1,147 @@
+# 3. The Listening Test
+
+## Format and Timing
+
+The Listening test is the **same for Academic and General Training**. You listen to **four recorded sections**, one after another, and answer **40 questions**.
+
+[[table:Listening test structure]]
+| Section | Speakers | Situation | Typical question types |
+| 1 | Two speakers | An everyday conversation (e.g. booking, enquiry) | Form/note completion |
+| 2 | One speaker | An everyday monologue (e.g. talk, guide) | Table/map labelling, multiple choice |
+| 3 | Two–four speakers | An educational/training discussion | Multiple choice, matching, completion |
+| 4 | One speaker | An academic lecture/talk | Note completion |
+
+- The recording is played **once only**.
+- You hear each section, then have time to read the next section’s questions, then the section is played, then you get time to check.
+- In the **paper test**, you get **10 extra minutes at the end to transfer** your answers to the answer sheet. In the **computer test** you type as you listen (and get a short review period).
+
+## The Answer Sheet
+
+- Answers must go on the answer sheet — answers written only in the question booklet do **not** count.
+- Use a **pencil** in the paper test. You may write in capital letters; capital letters avoid some spelling-penalty risk.
+- Check that your **candidate number and name** are correct, and shade **Academic** or **General Training** clearly.
+
+## How Listening Is Scored
+
+Each question = **1 mark**; there is no negative marking. The raw score out of 40 is converted to a band (see the table in Chapter 2). For reference, the source course gave its students these conversion examples: 27 correct = 6.5, 31–32 = 7.0, 33–34 = 7.5.
+
+## The Golden Rules
+
+> REMEMBER: (1) The audio is played once — miss it and it is gone. (2) Answers usually appear **in order** within a section. (3) You must write **exactly** what fits the word limit. (4) Spelling must be correct. (5) Questions use **paraphrase** — you will rarely hear the exact words of the question.
+
+# 4. Listening Skills and Question Types
+
+## Skill 1: Read the Instructions — the Word Limit
+
+Before every set of questions you are told how many words you may write. The most common instruction is:
+
+> **NO MORE THAN TWO WORDS AND/OR A NUMBER**
+
+This allows five answer forms, and your answer must be one of them:
+
++ One word only (*hotel*)
++ One word + a number (*2 weeks*)
++ Two words (*fully equipped*)
++ Two words + a number (*9 days*)
++ Just a number (*200*)
+
+> WARNING: Write **three words** where only two are allowed and the answer is marked **wrong**, even if the meaning is correct. Count your words: *a* and *the* count as words; hyphenated words (*first-aid*) count as **one** word.
+
+## Skill 2: Predict Before You Listen
+
+You always have time to look at the questions **before** each section plays. Use it to **predict**:
+
++ What **type of information** each gap needs — a name? a number? a date? a price? a place? a job title?
++ What **word class** fits — a noun, an adjective, a verb?
++ For tables and forms, look at the **heading of each column** so you know what to listen for.
+
+**Example:** in a holiday-apartment booking form, the gap after “maximum price per day: ___” must be a **number** (and the currency sign, e.g. €, will already be printed for you). The gap after “view: ___” must be a noun such as *sea* or *garden*.
+
+## Skill 3: Spelling — Names, Letters and Homophones
+
+Section 1 almost always asks you to write down a **name, address or place** that is **spelled out letter by letter** in the recording. You must master this.
+
++ Know the letters and their sounds; practise writing them fast.
++ Learn to **distinguish letters that sound alike**, especially **B / P**, **D / T**, **M / N**, **G / J**, **V / B**.
++ Learn the **double-letter** convention: *“double L”* = **LL**, *“double P”* = **PP**, *“double B”* = **BB**. The source course drills this: *“Pepsi”* uses a **P** sound, *“book”* uses a **B** sound — the difference between *“double P”* and *“double B”* is exactly this.
++ Common spoken spellings in real tests: *“W”* (double-u), *“S-A-N-J-A-Y”*, *“B-L-U-M-E-N-G-A-S-S-E”*, *“E-L-B-R-U-S”*.
+
+## Skill 4: Numbers, Dates and Times
+
++ Write numbers as **digits, not words** — digits protect you from spelling mistakes.
++ **0 is “zero” or “oh”**; in the computer test always type the digit **0**, never the letter **O**.
++ Telephone numbers: *“double”* = repeat the digit twice, *“triple”* = three times. *“4-3-1-2 double 1 0-5-7”* = 431211057.
++ Ordinal dates: 1st, 2nd, 3rd, 4th … 21st, 22nd, 23rd. *“The first of January”* = **1 January / January 1** — both correct, digits safer.
++ Times: *“half past seven”* = 7:30, *“quarter to nine”* = 8:45. Know these spoken forms.
+
+## Skill 5: Recognise Paraphrase and Synonyms
+
+The recording **rephrases** the question. You must listen for meaning, not words.
+
+[[table:Common paraphrase pairs in Listening]]
+| Question says | Recording may say |
+| inquire / enquiry | ask about / questionnaire / seek information |
+| occupation / job title | what he does for a living |
+| free time | leisure time / spare time |
+| activities | hobbies |
+| relocation / relocate | move (somewhere else) |
+| major / central / crucial / vital | important |
+| on their own | alone / by themselves |
+| supervise | look after / be in charge of |
+
+## Skill 6: Don’t Be Caught by Distractors
+
+Speakers **correct themselves** or say something then change it. The classic pattern: *“It’s on Thursday … actually no, sorry, make that Friday.”* The first answer is a **trap**; the corrected answer is what you write. The source course highlights a self-correction in its own practice test and reminds students to watch for it.
+
+## Skill 7: The Question Types and How to Attack Each
+
+### 1. Form / Note / Table / Flow-chart / Summary completion
+
++ Read the heading and surrounding words to predict the answer type.
++ Follow the **order** of the recording; the answers come one after another.
++ Keep to the **word limit**; copy nothing extra.
+
+### 2. Sentence completion
+
++ The sentence is a paraphrase of what you will hear.
++ The missing part is usually a noun phrase or number.
+
+### 3. Multiple choice
+
++ The **three options appear in order** in the recording; do not wait for question 3’s answer before question 1’s.
++ Your job is to **exclude** wrong options while listening. Each distractor is usually mentioned but then contradicted (“but…”, “however…”, “actually…”, “instead…”).
++ **Example (from the course):** “On Wednesday, visitors must ___” — the correct answer was *book in advance* (“phone the park ranger a few days ahead”); the distractors (“attendance is free”, “only group bookings”) were both mentioned and both contradicted (there *is* a small charge, and individuals *can* come).
+
+### 4. Matching
+
++ Match items in a list to options (A–F). There are usually **more options than questions**.
++ Listen for **synonyms** of the options, and for the order in which items are discussed.
+
+### 5. Plan, Map and Diagram Labelling
+
+This is the type many candidates fear most. The source course gives a complete method:
+
++ **First, orient yourself.** Find the **entrances** (e.g. “East Gate”, “West Gate”) and where you are standing.
++ **Second, fix the main features** in your mind (e.g. the *lake*, the *refreshments* area, the *main path*).
++ **Third, know the directions:** north, south, east, west **and** north-east, north-west, south-east, south-west.
++ **Fourth, know the prepositions of place:** *behind, in front of, next to, near, between, opposite, to the left of, to the right of, below/beneath, above*.
++ Then listen for sentences such as: *“There is a bird hide **to the west of** the lake, at the end of a path”*, *“The dog-walking area is in the **southern** part of the park”*, *“The flower garden is the **circular** area surrounded by paths”*, *“The wooded area is in the **western** section, **between** two paths.”*
+
+### 6. Short-answer questions
+
++ Read the word limit (often “NO MORE THAN THREE WORDS”).
++ The answer is a fact — a number, a name, a time — stated directly.
+
+## A Complete Section-1 Walkthrough (from the course)
+
+Here is a real Section 1 the course practised: a man telephones about a holiday apartment.
+
+<<<
+**Recording summary:** *“I’m ringing to enquire about a holiday apartment… can I have your name first, please? Yes, it’s Leo Lucia — that’s L-E-O … and my surname is L-U-C-H-E-A … my address? It’s number 37 Blumengasse in Vienna … could you just spell Blumengasse for me? It’s B-L-U-M-E-N-G-A-S-S-E … my phone number is 4-3-1-2, double 1, 0-5-7 … how many people is it for? There’ll be four of us — two adults and two children … from the first of January … about nine days … around 200 euros a day … one thing we’d really appreciate is a fully equipped kitchen … we’d like to see the sea from our apartment … can you make sure the air conditioning is as quiet as possible … we’ll need a parking space.”*
+>>>
+
+**Answers the course accepted:** 1. Leo Lucia · 2. 37 Blumengasse · 3. 431211057 · 4. 4 people · 5. 1st January · 6. 9 days · 7. €200 · 8. (a fully equipped) kitchen · 9. sea (view) · 10. parking space (*space* or *parking* also correct).
+
+Notice how every answer was **predicted** before listening: name (letters), address (letters), phone (digits), number of people (number), date (date), length (number + “days”), price (number + currency given), facility (noun), view (noun), car need (noun).
+
+Now practise: take any Cambridge IELTS Listening test, Section 1, and **only** practise predicting each gap’s answer type before you press play. Then listen and check how often your prediction matched.

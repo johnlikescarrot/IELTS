@@ -1,0 +1,80 @@
+# 9. Reading Practice — Worked Passages
+
+Use this chapter as a self-test. Read each set of questions, apply the four-step method, write your answers, then check the answer key and the reasoning.
+
+## Practice 1 — The Thames Tunnel (True / False / Not Given)
+
+**Background (as taught in the course):** the passage describes the Thames Tunnel, built under the River Thames in the nineteenth century. Key facts from the passage: it was the **first tunnel ever built under a river**; people at the time **believed** it was “the eighth wonder of the world”; **people came from far and wide to see the marvel**; it was the **age of sail and horse-drawn coaches**; the **aim** had been for the tunnel to be used by **wheeled vehicles to transport cargo** so that it would **bring in a profit**; and the site later became a place **selling souvenirs**.
+
+**Questions.** Write TRUE, FALSE or NOT GIVEN.
+
++ The Thames Tunnel was the first tunnel ever built under a river.
++ The Thames Tunnel was the eighth wonder of the world.
++ People were drawn from all over to see the Thames Tunnel.
++ In those days people were able to travel by sea or by land.
++ The aim of the tunnel was to make a profit as a tourist attraction.
++ Replicas of the tunnel could be bought as souvenirs.
+
+**Answer key.**
+
++ **TRUE** — “first … ever built under a river” = the same information.
++ **FALSE** — the passage says people *believed* it was the eighth wonder (an opinion); the statement states it as a fact.
++ **TRUE** — “drawn from all over” = “came from far and wide”.
++ **TRUE** — “travel by sea” = “the age of sail”; “travel by land” = “horse-drawn coaches”. (Do not rush to “not given”.)
++ **FALSE** — the passage says the aim was to be used by **wheeled vehicles to carry cargo** for profit; “tourist attraction” contradicts this.
++ **NOT GIVEN** — souvenirs are mentioned, but the passage does not say whether **replicas of the tunnel** were sold.
+
+## Practice 2 — Handedness (Yes / No / Not Given)
+
+**Background:** a passage about left-handedness and the scientists who studied it.
+
+**Questions.** Write YES, NO or NOT GIVEN.
+
++ The study of twins shows that genetic determination is not the only factor in handedness.
++ Marc Dax’s report was widely accepted by other experts.
++ Dax based his findings on people who had language problems.
++ Left-handed individuals are thought to have more stable and successful relationships.
+
+**Answer key.**
+
++ **YES** — one in five identical twins differs in handedness despite identical genes; genes are “not solely responsible”.
++ **NO** — “other experts showed little interest” contradicts “widely accepted”.
++ **NOT GIVEN** — the passage discusses the functional organisation of language, not subjects with language problems.
++ **NOT GIVEN** — no such claim is made anywhere.
+
+## Practice 3 — Matching People to Findings (Handedness)
+
+Match each scientist (A–C) to the correct finding (1–4). One finding is not used.
+
+**Scientists:** A. Brenda Milner · B. Peter Hepper · C. Michael Corballis
+
+**Findings:**
+
++ The origin of human speech lies in gestures.
++ Language is processed much more intensely in the left hemisphere.
++ The unborn baby’s preference for the faster-developing side influences brain development.
++ Handedness is fixed at birth and cannot change.
+
+**Answer key:** 1–C · 2–A · 3–B · 4–not used.
+
+## Reading Vocabulary Bank
+
+Learn these as pairs — the passage will use one, the question the other.
+
+[[table:Reading paraphrase pairs]]
+| Word in the question | Word in the passage |
+| aim / goal / purpose | intention / objective |
+| make a profit | make money / be profitable |
+| marvel / wonder | something extraordinary |
+| drawn from all over | came from far and wide |
+| replica / statue | model / miniature |
+| souvenir | memento / keepsake |
+| solely | only / alone |
+| widely accepted | little interest (opposite!) |
+| hemisphere | half (of the brain) |
+| significance | importance / role |
+| provider / producer | supplier / exporter |
+| retain | keep / preserve |
+| grind | crush into powder |
+
+Now practise: for each vocabulary pair above, write one sentence using the **question** word and one using the **passage** word, to fix the connection in your memory.

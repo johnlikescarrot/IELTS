@@ -1,0 +1,98 @@
+# 6. The Reading Test
+
+## Format and Timing
+
+You have **60 minutes**, **40 questions** and **3 sections**. Every question is worth **1 mark**, so the paper totals 40 marks.
+
+[[table:Reading test structure]]
+| | Academic | General Training |
+| Sections | 3 long passages | 3 sections (5 shorter texts) |
+| Text source | Books, journals, magazines, newspapers | Notices, adverts, handouts, official documents, one longer passage |
+| Topics | Academic topics of general interest, for a non-specialist audience | Everyday life, work and training topics |
+| Total length | roughly 2,150–2,750 words | similar, spread over more texts |
+| Time | 60 minutes | 60 minutes |
+
+> WARNING: There is **no transfer time** in Reading (unlike Listening). Write or type each answer **directly onto the answer sheet as you go**. If the time runs out with answers still in the booklet, you score **zero** for them. This is one of the most common — and most costly — misconceptions about the test.
+
+- **Academic** is for study; **General Training** is for migration and some jobs. Choose the right module.
+- Academic texts are written for a **non-specialist audience** — you do **not** need to be a doctor to understand a medical passage, or an engineer to understand an engineering one.
+- Question sets (e.g. a set of True/False/Not Given) are answered **in order** within the passage, but the **different question types** are **not** arranged in order across the paper. You will need to move around the passage.
+
+## Paper vs Computer
+
+- **Paper:** you may underline, circle and make notes in the question booklet — use it as scratch paper.
+- **Computer:** right-click a word and choose **Highlight** to mark keywords in colours; you can **copy and paste**; the screen is **split** so the passage is beside the questions. **Ctrl+F (find) is not allowed.**
+
+## The Question Types
+
+Across both modules you will meet roughly **nine to twelve question types** (Chapter 8 teaches each in detail):
+
+1. Multiple choice
+2. Identifying information — **True / False / Not Given**
+3. Identifying the writer’s views/claims — **Yes / No / Not Given**
+4. Matching information to paragraphs
+5. Matching headings to paragraphs
+6. Matching sentence endings
+7. Matching people (or names) to statements
+8. Sentence completion
+9. Summary completion (with or without a box of words)
+10. Notes / table / flow-chart completion
+11. Diagram labelling
+12. Short-answer questions
+
+## The Core Truth About Reading
+
+> REMEMBER: IELTS Reading is a **race against time**, not a knowledge test. The passage is not especially hard; what is hard is finding 40 answers in 60 minutes. Every strategy in the next two chapters exists to save you time and to stop you reading more than you need to.
+
+# 7. Reading Strategy
+
+## The Four-Step Method
+
+The source course teaches one method and returns to it constantly. Memorise it:
+
++ **Step 1 — Read and analyse the question.** Underline or highlight the **keywords**: the nouns, verbs, adjectives and adverbs that carry the meaning.
++ **Step 2 — Think of synonyms.** The passage will **not** use the question’s words; it will use equivalents. Before you look at the passage, ask yourself: *what other words could express this?*
++ **Step 3 — Locate.** Go to the passage and **scan** for the synonyms (or the topic) to find the part that answers the question.
++ **Step 4 — Understand and match.** Read that part **carefully** and compare it with the question. Check whether the information **matches, contradicts, or is absent** — and remember that meaning is sometimes **implicit** (“between the lines”), not stated directly.
+
+> WARNING: Many candidates stop after Step 3 — they find the right place but do not read it carefully enough, and choose the wrong answer. Step 4 is where marks are won or lost.
+
+## Read the Questions First — Not the Passage
+
+This is the single most important reading habit:
+
++ Reading the passage first is **wasted time**, because you would read it again after seeing the questions. Every reading activity needs a **purpose**, and the questions give you that purpose.
++ So: **questions first → keywords → synonyms → then the passage.**
+
+## The Three Sub-Skills
+
++ **Skimming** — moving your eyes quickly over a text to catch the **gist** (the main idea / central idea). Use it to answer “what is the best title?” and to see what each paragraph is about.
++ **Scanning** — reading fast **but carefully**, hunting for **specific information**: a name, a date, a number, a percentage. Whenever you see a name, date, number or percentage in the passage, **underline it** — you will almost certainly be asked about it.
++ **Reading for detail** — slow, careful reading of one or two sentences to decide a True/False/Not Given or to complete a gap. This is Step 4 of the method.
+
+**Speed benchmarks** (from the course’s scanning practice): untrained slow readers read about 150–200 words per minute (often reading one word at a time); trained native readers read 250–350 wpm; good readers read around 350 wpm aiming for about 70% understanding. The target for IELTS work is roughly **250–350 wpm**.
+
+## Find the Topic Sentence
+
+The **topic sentence** is the sentence that summarises what a paragraph is about. It matters because Matching Headings and paragraph-locating questions depend on it.
+
+> WARNING: A widespread myth says the topic sentence is always the **first or second** sentence. It is not. Because IELTS passages are professionally written, the topic sentence may be **first, in the middle, or last** — or the main idea may be spread across the paragraph. Always read the **whole** paragraph (quickly) for the main idea, and use the title, subheadings, special print and any diagrams or tables to help.
+
+## Time Management
+
+You may do the sections in any order and go backwards and forwards. But:
+
++ **Part 1 is the easiest** (a warm-up) and **Part 3 is the hardest**. The test is designed this way.
++ **Start with Part 1.** Beginning easy builds confidence; beginning with the hardest passage exhausts your mind, and a tired mind cannot think clearly — and clear thinking is the whole game.
++ **Divide your 60 minutes by target band:**
+  - Target **6.0 or above**: about **20 / 20 / 20** minutes per part.
+  - Target **4.5–5.5**: give Part 1 **more** time (about **23 minutes**) to bank the easy marks — do not gamble your time on Part 3.
++ **Never get stuck.** Spending too long on one question is *overthinking*. If you cannot find an answer within about **one minute**, mark it mentally and **move on**; return later if time allows. A stuck candidate becomes nervous, and nervousness destroys accuracy.
+
+## Guessing and Vocabulary
+
++ **Never leave a blank.** There is no negative marking, so a guess can only help. Blank = zero; guessed = a chance.
++ **You do not need to understand every word.** IELTS is **not a translation test** — it is a test of understanding the general and specific meaning. **Guess unknown words from context.**
++ **Build your synonym bank** constantly. The more synonyms you know, the faster you locate answers. Chapter 18 gives you a starter bank.
+
+Now practise: take one Academic passage with 13 questions. Time yourself strictly. For the first five questions, write down (a) the keywords you underlined, and (b) the synonym you looked for. You will start to see how predictable the paraphrase patterns are.

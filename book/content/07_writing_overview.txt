@@ -1,0 +1,71 @@
+# 10. The Writing Test — Overview
+
+## Format and Timing
+
+You have **60 minutes** to write **two tasks**.
+
+[[table:Writing test at a glance]]
+| | Task 1 | Task 2 |
+| Academic | A **report** describing a graph, chart, table, map or process | An **essay** |
+| General Training | A **letter** | The **same essay** as Academic |
+| Words | at least **150** (aim 160–180) | at least **250** (aim 260–280) |
+| Recommended time | **20 minutes** | **40 minutes** |
+| Share of the mark | **1/3** | **2/3** |
+
+> WARNING: Do **not** split your time 30 + 30. Task 2 needs more vocabulary, carries **twice** the marks, and must be finished properly — so give it 40 minutes. Many teachers (including the source course) advise you to **write Task 2 first**.
+
+## How the Writing Band Is Calculated
+
+Your Writing band = **(Task 1 + 2 × Task 2) ÷ 3**, rounded to the nearest half band.
+
+**Example:** Task 1 = 7.0, Task 2 = 8.0 → (7 + 16) ÷ 3 = 7.67 → **7.5**.
+**Example:** Task 1 = 6.5, Task 2 = 6.5 → (6.5 + 13) ÷ 3 = 6.5.
+
+## The Four Marking Criteria
+
+Every task is marked against four criteria, each worth 25%. Examiners follow the published **band descriptors** strictly — your score does **not** depend on the examiner’s mood, and you cannot lose marks for your opinions.
+
+[[table:Writing criteria]]
+| Criterion | What it measures |
+| Task Achievement (Task 1) / Task Response (Task 2) | Did you do the task fully: word count, all parts covered, main features, your position? |
+| Coherence & Cohesion | Logical organisation, paragraphing, linking of ideas |
+| Lexical Resource | Range and accuracy of vocabulary, paraphrase, word choice |
+| Grammatical Range & Accuracy | Sentence variety (simple/compound/complex) and correctness |
+
+## Task Achievement / Task Response — The Non-Negotiables
+
+These single mistakes cap your score at about **Band 5** no matter how good the rest is:
+
++ Writing **fewer than the required words** (150 for Task 1, 250 for Task 2).
++ **Copying the question** instead of paraphrasing it.
++ **Missing a part** of the question (e.g. covering advantages but not disadvantages).
++ Task 1: **no overview** (or “recounting detail mechanically with no clear overview”).
++ Task 2: **no conclusion**.
++ **Not supporting** a Task 1 report with figures/numbers/percentages.
++ Writing **off-topic** — ignoring the question’s scope.
++ Using **headings, bullet points or numbering** instead of continuous prose.
+
+> REMEMBER: There is **no maximum** word count, but **quantity is not quality**. Writing 300 words for Task 1 does not earn more marks; it usually adds mistakes. Stick to the recommended averages (Task 1: 160–180; Task 2: 260–280) and spend any spare time **checking and correcting**.
+
+## Paragraphing Rules
+
++ Task 1 (Academic): **2–4 paragraphs** — introduction, overview, and one or two body paragraphs. **No conclusion.**
++ Task 2: **4 or 5 paragraphs** — introduction (with a **thesis statement**), 2 or 3 body paragraphs, and a **conclusion**. Fewer than 4 paragraphs (1–3) caps your score at about Band 5; more than 5 also costs marks.
++ **Leave a blank line between paragraphs.** Do **not** indent, and do **not** use bullet points or headings.
+
+## The Answer Sheet and Handwriting
+
++ Fill in your **candidate number, name and date**, and **shade** Academic or General Training.
++ **Paper test: use a pencil** (pens are not allowed). **Computer test:** type; there is no spell-check, so be careful with spelling — but you can copy, cut and paste.
++ Handwriting must be **legible** — clear and readable. Beautiful handwriting earns nothing extra; illegible handwriting loses marks.
++ In the paper test you **count words manually**: roughly **10 words per line**, so a 250-word essay is about **25–28 lines**. On computer the counter is automatic.
+
+## Spelling and Punctuation
+
+Spelling and punctuation matter and are part of Lexical Resource and Grammar. Common killers: missing capital letters at the start of sentences, missing full stops, and misspelling words you already know (including the words printed in the question — copy names and place names **accurately**).
+
+## Full Sentences Only
+
+Never write in note form. Every answer is written in **complete sentences** with a subject and verb.
+
+Now practise: write down the four criteria and, next to each, one thing you personally must improve. Keep this list beside you for every practice essay you write.

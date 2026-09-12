@@ -1,0 +1,115 @@
+# 5. Listening Practice and Model Answers
+
+This chapter reproduces the practice material from the source course with full answers, so you can see the techniques of Chapter 4 applied to complete Sections 1–4.
+
+## Section 1: A Form Completion (An Expedition Candidate)
+
+Two speakers discuss a surprising candidate for a scientific expedition. The form asks for his details, experience, skills and interests.
+
+<<<
+**Recording summary:** *“Did you manage to see those candidates for our expedition? … there was an extra one who just turned up out of the blue… First, his name is Sanjay — spelled S-A-N-J-A-Y — and surname Dudashi, D-U-D-A-S-H-I … he’s 27 … he’s an office worker … he drove a Land Rover across central Africa from one side to the other … last year he climbed a mountain — Mount Elbrus, E-L-B-R-U-S … he’s done a first-aid course … he can hold conversations in five languages … he graduated in media studies … in his spare time he likes fishing, and he spends a lot of time at the gym — he likes to keep fit.”*
+>>>
+
+[[table:Form-completion answers]]
+| Question | Answer | Notes |
+| Name | Sanjay Dudashi | letters given: S-A-N-J-A-Y, D-U-D-A-S-H-I |
+| Age | 27 | a number; “years” optional |
+| Job | office worker | occupation = job title |
+| Experience | crossed Central Africa (by Land Rover) | a trip across a continent |
+| Mountain climbed | Mount Elbrus | spelled E-L-B-R-U-S |
+| Course | first aid | one word (or *first-aid*) |
+| Languages | 5 | “hold conversations” = speak |
+| Qualification | media studies degree | degree/certificate/diploma |
+| Hobbies | fishing, keep fit | “free time” = leisure/spare time |
+
+> TIP: When a form asks “Languages spoken: ___”, the answer is a **number** (e.g. 5), not a list. Predict the answer type from the column, exactly as shown here.
+
+## Section 2: Note Completion + Multiple Choice (A Wildlife Club Talk)
+
+A speaker welcomes people to a wildlife club and describes three nearby green spaces, then a park’s weekly programme.
+
+### Note completion — three places
+
+<<<
+**Recording summary:** *“One very pleasant place is Highland Common … the river … has its source on the common … the common is accessible 24 hours a day. Then there’s Holt Island, noted for its great range of trees … willows were grown here for basket-making … the island is only open to the public from Friday to Sunday … across the bridge is Longfield Country Park, which has a modern replica of a farm from 2,000 years ago … children’s activities like bread-making and face-painting … open during daylight hours.”*
+>>>
+
+[[table:Note-completion answers]]
+| Question | Answer |
+| Feature of Highland Common | river source (open 24 hours) |
+| Holt Island noted for | (great range of) trees |
+| Holt Island open | Friday to Sunday |
+| Longfield has a replica | farm (2,000 years ago) |
+| Children’s activities | bread-making, face-painting |
+| Longfield open | during daylight hours |
+
+### Multiple choice — the weekly programme
+
+<<<
+**Recording summary:** *“On Monday you can learn about herbs … practise the technique of using them as coloured dyes for cloth … On Wednesday, to join the evening walk about insects and birds, you need to phone the park ranger a few days ahead — there’s a small charge … On Saturday you can join a working party … you can change from one activity to another … just make sure you’re wearing something you don’t mind getting dirty.”*
+>>>
+
+[[table:Multiple-choice answers with the distractors]]
+| Question | Correct answer | Why the distractors are wrong |
+| Monday: visitors will ___ | practise dyeing cloth with herbs | “prepare food”/“meet a herbalist” were mentioned but contradicted |
+| Wednesday: you must ___ | book in advance | “attendance is free” (there is a charge); “group bookings only” (individuals can come) |
+| Saturday: you must ___ | wear suitable (old) clothes | “stay all day” (you may leave); “tell them what you want to do” (not necessary) |
+
+## Section 3: Multiple Choice + Completion (A Self-Access Centre)
+
+Students and staff discuss the future of their self-access centre.
+
+<<<
+**Recording summary:** *“The majority of students enjoy using it … they see it as a pretty major component of their course … we always have to share the computers … teachers think the computers should be a learning resource, not for emails … we could relocate the self-access centre to the main university library … the students would be much happier keeping the existing set-up … the problem isn’t the cost or the space — it’s finding teachers to supervise the centre outside class hours … we should label the reading materials more clearly, update the CD collection, buy workbooks and laminate the pages, organise a timetable, and install an alarm.”*
+>>>
+
+[[table:Section 3 answers]]
+| Question | Answer |
+| Why students want to keep it | it’s a major part of their course (not variety of equipment / not working alone) |
+| Some teachers prefer to | relocate it (move it elsewhere) |
+| The main concern | finding teachers to supervise (not cost, not space) |
+| Improvement 1 | label (reading) materials clearly |
+| Improvement 2 | update the CD collection |
+| Improvement 3 | buy/laminate workbooks |
+| Room use | agree a timetable to supervise after class |
+| Security | install an alarm; limit computer access |
+
+> NOTE: The vocabulary here is exactly the kind IELTS recycles: *major = central = crucial = vital*, *relocate = move*, *on their own = alone*, *supervise = look after*.
+
+## Section 4: A Lecture on Business Cultures (Note Completion)
+
+A university lecture classifies company culture into types. This is typical Section 4 material — a single speaker, an academic topic, and a gap-fill that follows the lecture in order.
+
+<<<
+**Recording summary:** *“We often refer to a company’s social characteristics as its culture … one writer classified company culture into four types. The power culture is usually found in small organisations; control is in the hands of one or two people; there are few rules; communication is by conversation rather than meetings; it can act quickly but depends too much on one or two people. The role culture — that’s r-o-l-e — is found in large companies with separate departments; everyone’s job is controlled by rules and procedures; it achieves economies of scale but is slow to change. The task culture is project-oriented, found where markets are competitive or products have a short life; management delegates; it’s flexible but can’t produce economies of scale.”*
+>>>
+
+[[table:Business cultures — notes]]
+| Culture type | Key features | Benefit | Drawback |
+| Power | small orgs, 1–2 leaders, few rules, conversation | acts quickly | depends too much on leaders |
+| Role | large firms, departments, rules & procedures | economies of scale | slow to change |
+| Task | project-oriented, delegates | flexible | no economies of scale, shallow expertise |
+| Person | (the fourth type) | serves the individual | — |
+
+> REMEMBER: “Role” is spelled **r-o-l-e**, not “roll” — a classic spelling trap the lecturer even spells out.
+
+## Listening Vocabulary Bank
+
+Here are the words and phrases the course taught across its Listening sessions — learn them as pairs, because the recording will use one and the question the other.
+
+[[table:Listening vocabulary pairs]]
+| Simpler word | Richer / equivalent word |
+| ask about / enquire | inquiry / questionnaire |
+| job title | occupation / profession |
+| trip for a scientific purpose | expedition |
+| free time | leisure time / spare time |
+| hobbies | activities / pastimes |
+| keep healthy | keep fit |
+| important | major / central / crucial / vital / essential |
+| move | relocate |
+| alone | on their own / by themselves |
+| look after | supervise |
+| cheap/expensive (price) | rate / charge / fee / cost |
+| booked in advance | reserved / pre-booked |
+
+Now practise: replay any Section 1 recording twice. First, write the answers as you normally would. Second, listen only for **distractors and self-corrections** and list them. You will be surprised how many you missed the first time.

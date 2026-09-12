@@ -1,0 +1,148 @@
+# 11. Writing Task 1 — Academic (The Report)
+
+## What Task 1 Is
+
+You are given a **visual** — a graph, chart, table, map or process — and asked to **summarise the information** in your own words, writing at least **150 words** in about **20 minutes**. You are **describing facts**, not giving opinions, and you must **never** invent causes or reasons.
+
+The visual types you may meet:
+
++ **Line graph** — changes over time (trends).
++ **Bar chart** — comparisons of quantities.
++ **Pie chart** — proportions of a whole.
++ **Table** — data arranged in rows and columns.
++ **Process / diagram** — how something is made or works.
++ **Map** — a place before and after change.
++ **Combination** — two of the above together.
+
+> NOTE: The first four — line, bar, pie and table — use **nearly the same technique**. The source course teaches these in detail (processes, maps and combinations are rarer, but prepare for all of them because the computer test is unpredictable).
+
+## The Four Criteria, Task 1 Edition
+
+The same four criteria as Chapter 10, but the first is called **Task Achievement**:
+
++ **Task Achievement** — 150+ words; paraphrase the prompt; select the **main features**; include an **overview**; **support with figures**; make comparisons.
++ **Coherence & Cohesion** — clear paragraphing (intro → overview → body), logical order, linking words.
++ **Lexical Resource** — a **range** of trend vocabulary (do not repeat *increased / decreased*), accurate word choice.
++ **Grammatical Range & Accuracy** — varied sentence structures, correct tenses and prepositions.
+
+## The Paragraph Structure
+
+A strong report has **four paragraphs**:
+
+1. **Introduction** — say what the visual shows (paraphrased).
+2. **Overview** — the 2–3 most important general points (highest/lowest, overall trend). **No numbers here** — just the big picture.
+3. **Body 1** — the first group of specific details, **with figures**.
+4. **Body 2** — the second group of specific details, **with figures**.
+
+> WARNING: There is **no conclusion** in Task 1 — an overview is **not** a conclusion. And write the overview **straight after the introduction**. If you save it for the end, you risk running out of time and missing it — and a report with no overview is capped at about **Band 5**. Adding anything after the overview also spoils the unity of the report.
+
+## The Introduction Formula
+
+The course teaches a reusable formula:
+
+> **The provided + [visual type] + [reporting verb] + [paraphrased topic] + [paraphrased time phrase].**
+
++ **Visual type:** *line graph, bar chart, pie chart, table, process diagram, map*.
++ **Reporting verb:** *gives information about / illustrates / shows / describes / compares / summarises / delineates / provides data on*.
++ **Paraphrase the topic:** change as many words as you can.
++ **Paraphrase the time:** *between 1999 and 2009* → *from 1999 to 2009* → *over a period of ten years* → *over a decade*.
+
+### Paraphrase examples (from the course)
+
+[[table:Paraphrase swaps for Task 1 introductions]]
+| Original | Paraphrase |
+| below | (delete it) |
+| illustrates | shows / describes / compares / summarises |
+| percentage | proportion / rate |
+| internet users | web users / online users / internet consumers / netizens |
+| tourist arrivals | foreign visitors |
+| between 1999 and 2009 | from 1999 to 2009 / over a decade |
+| (two separate years: 2015 and 2022) | in 2015 and 2022 (NOT “from…to”) |
+
+**Worked introduction:**
+
+<<<
+The provided line graph demonstrates how the proportion of citizens in Canada, Mexico and the USA who used the internet changed over a decade (1999–2009).
+>>>
+
+## The Overview Formula
+
+The overview states the **highest and lowest**, the **most and least**, and the **overall trend**. One or two sentences. Useful frames:
+
+<<<
+Overall, it can be clearly seen from the graph that … while … over the whole period.
+Overall, … had the highest … throughout the period, whereas … had the lowest.
+Overall, … rose considerably, while … fell slightly by the end of the period.
+>>>
+
+> TIP: “Overall” is fine and expected. Avoid *“all in all”*, which is too informal for a report.
+
+## Trend Language — Your Toolbox
+
+Memorise this table. It lets you describe the same movement in many ways and never repeat yourself.
+
+[[table:Trend language — verbs, nouns, adjectives and adverbs]]
+| Direction | Verb | Noun | Adjective | Adverb |
+| Up | increase, rise, climb, grow, surge | an increase, a rise, a climb, a growth, a surge | slight, gradual, steady, sharp, dramatic, considerable, significant | slightly, gradually, steadily, sharply, dramatically, considerably, significantly |
+| Down | decrease, fall, drop, decline, plunge, dip | a decrease, a fall, a drop, a decline, a plunge, a dip | (as above) | (as above) |
+| Highest point | peak, reach a peak, hit a high | a peak | — | — |
+| Lowest point | reach a trough, hit a low, bottom out | a trough | — | — |
+| No change | remain constant/unchanged, level off, stabilise | — | stable, unchanged, constant | — |
+| Change both ways | fluctuate | a fluctuation | — | — |
+| Begin | start at (line graphs, at the start only) | — | — | — |
+
+### Matching exercise (as in the course)
+
++ *rose / increased steadily* = **increased gradually** (a steady/gradual rise)
++ *rose / increased dramatically* = **rose sharply / considerably** (a sharp/considerable increase)
++ *plunged to* = **dropped dramatically** (a plunge)
++ *reached the highest point* = **reached a peak / hit a high**
++ *reached the lowest point* = **reached a trough / hit a low**
++ *went up and down* = **fluctuated**
++ *stayed the same* = **remained constant / levelled off**
+
+## The Body-Paragraph Formula
+
+Describe the **specific** data in logical groups (e.g. one paragraph for the rising items, one for the falling items; or one paragraph per country/category). For each movement give **what + how + by/to how much + when**:
+
+<<<
+To begin with, the number of people arrested for drug offences stood at around 35 in 1991. It then dropped drastically to 20 in 1993. However, the number increased gradually to about 25 in 1995 before it fell significantly to reach 50 in 1996. The figure reached a trough of 15 in 2001 and, despite the fact that it recovered, it remained below its 1991 level from 2003 onwards.
+>>>
+
+> IMPORTANT: You do **not** need to describe every single point on the graph. Select the **most prominent** changes — the peaks, the troughs and the biggest movements — and **support them with numbers**. A report with **no figures** is capped at about Band 5.
+
+## Sentence Patterns for Variety
+
+The course teaches three ways to say the same thing (grammatical range!):
+
++ **“There was + adjective + noun + in + [subject] + [time]”** → *There was a **gradual rise** in the number of arrests in 1992.*
++ **Subject + verb + adverb** → *The number of arrests **rose gradually** in 1992.*
++ **Year + witnessed/experienced + noun phrase** → *1992 **witnessed a gradual rise** in the number of arrests.*
+
+The noun/adjective and verb/adverb forms pair up: *a sharp drop* ↔ *dropped sharply*; *a sudden increase* ↔ *increased suddenly*; *a steady rise* ↔ *rose steadily*.
+
+## Comparisons, Not Lists
+
+Do **not** list (“Country A increased, country B increased, country C decreased…”). **Compare**:
+
+<<<
+Canada had the highest proportion of internet users throughout the period, peaking at around 80% in 2009, whereas Mexico had the lowest, never exceeding 40%.
+>>>
+
+## A Full Model Report
+
+**Task:** *The line graph below shows the number of international tourist arrivals in five countries between 1995 and 2005. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+
+<<<
+The provided line graph gives information about how the number of foreign visitors changed in five countries — Brazil, Egypt, Malaysia, France and the USA — from 1995 to 2005.
+
+Overall, it can be clearly seen that the USA received the highest number of arrivals throughout the period, while Egypt had the lowest. Brazil and Egypt followed a broadly similar, gently rising pattern, whereas France and Malaysia experienced more marked fluctuations.
+
+To begin with, the USA attracted by far the most tourists, with arrivals rising steadily from roughly 45 million in 1995 to about 70 million by 2005. France also saw an overall upward trend, although its figure fluctuated between 30 and 40 million before ending the period at around 42 million.
+
+By contrast, arrivals in Brazil and Egypt grew only modestly over the decade, increasing from approximately 8 million to about 15 million and from just over 5 million to nearly 10 million respectively. Malaysia’s figure, meanwhile, was the most volatile of the five, dipping sharply to a trough of around 5 million in 2000 before recovering to close to 20 million in 2005.
+>>>
+
+Notice: an introduction (paraphrased), an overview (highest/lowest + general patterns), two body paragraphs (specific figures, comparisons), varied trend language (*rising steadily, fluctuated, grew modestly, dipping sharply, recovering*), and **no** conclusion and **no** opinion.
+
+Now practise: choose any line graph or bar chart from a practice book and write only the **introduction and overview** (about 50 words). Do this for five different visuals until the formula is automatic.

@@ -1,0 +1,123 @@
+# 8. Reading Question Types — Techniques
+
+This chapter teaches every Reading question type with the exact decision rules and the worked examples from the source course.
+
+## True / False / Not Given (Facts)
+
+These questions test **factual information** in the passage.
+
+[[table:True / False / Not Given — the three decisions]]
+| Answer | Meaning |
+| TRUE | The statement says the **same** thing as the passage (possibly in different words). |
+| FALSE | The statement **contradicts** (says the opposite of) the passage. |
+| NOT GIVEN | The information is **not found** in the passage — there is no reference and no indication either way. |
+
+### Worked examples (from the course)
+
+Take this mini-passage about “Doctor X”:
+
+<<<
+*Doctor X is a professor. He teaches English at a university. He is married with three children — two sons and a daughter. He likes poetry and he likes reading a lot.*
+>>>
+
++ **“Doctor X is an English professor.”** → **TRUE.** The words “English professor” do not appear, but “professor” + “teaches English” mean the same thing. This is paraphrase.
++ **“He has three sons.”** → **FALSE.** The passage says two sons and one daughter — the statement contradicts it.
++ **“He is into reading science fiction.”** → **NOT GIVEN.** He likes reading “a lot”, but the passage never says **what kind** of reading. You cannot say yes or no, so it is Not Given.
+
+### Opinion vs fact (a subtle, high-band point)
+
++ **Facts** are generally agreed and verifiable; **opinions** are personal and debatable. They are opposites.
++ If the passage expresses something as an **opinion** (“many people **believe** the tunnel was the eighth wonder of the world”) but the statement presents it as a **fact** (“the tunnel **was** the eighth wonder of the world”), the information **contradicts** in form → **FALSE**.
+
+### Tense matters
+
++ A statement in the present tense does not equal the same idea in the past. *“She **gets** up early”* is **not** the same as *“She **used to** get up early”* — “used to” means a past habit that has now finished. This difference alone can make a statement **FALSE**.
+
+### Watch for “not given” traps
+
++ If a **related** word appears (e.g. “souvenirs” are mentioned) but the **specific** claim is not (whether **statues of the tunnel** were sold), the answer is **NOT GIVEN** — you have no evidence either way. Do not be seduced by a shared word.
++ Do not rush to “not given” when the passage **does** give the information in paraphrase — always scan and paraphrase before deciding (the course’s “travel by sea or land” example, where “the age of sail and horse-drawn coaches” proves the statement **TRUE**).
+
+## Yes / No / Not Given (The Writer’s Views)
+
+Identical logic, but about the **writer’s opinions/claims**, not facts.
+
+[[table:Yes / No / Not Given — the three decisions]]
+| Answer | Meaning |
+| YES | The statement **agrees** with the writer’s view/claim. |
+| NO | The statement **contradicts** the writer’s view/claim. |
+| NOT GIVEN | The writer expresses **no view** on this. |
+
+> WARNING: Follow the instructions exactly. If the question says **YES/NO/NOT GIVEN**, writing **TRUE/FALSE/NOT GIVEN** makes the answer **wrong** (and vice versa). You may write the full words or the abbreviations Y/N/NG and T/F/NG.
+
+### Worked examples (the “handedness” passage)
+
+<<<
+*…one in five identical twins involves one right-handed and one left-handed person, despite identical genetic material; therefore genes are not **solely** responsible for handedness… Other experts showed little interest in Marc Dax’s ideas…*
+>>>
+
++ **“The study of twins shows that genetic determination is not the only factor in handedness.”** → **YES** (“genes are not *solely* responsible” = not the only factor).
++ **“Marc Dax’s report was widely accepted.”** → **NO** (“other experts showed **little interest**” contradicts “widely accepted”).
++ **“Dax based his findings on people who had language problems.”** → **NOT GIVEN** (the passage discusses the “functional organisation of language” but never says his subjects had language problems).
++ **“Left-handed people have more stable and successful relationships.”** → **NOT GIVEN** (no such claim appears anywhere).
+
+## Matching Headings
+
+You match a list of headings (usually more headings than paragraphs) to paragraphs.
+
++ **Read the headings first.** Understand each one; note headings that are **similar** to each other — the test will make you choose between them (e.g. “uses of spices” vs “preserving flavour” vs “spices for cooking”).
++ Then read each paragraph for the **main idea** — look for the **topic sentence**, which may be anywhere in the paragraph.
++ **Distinguish the main idea from supporting details.** A paragraph may *mention* trade routes while its main idea is “the significance of spices” — the mention is a supporting detail, not the heading.
++ The first paragraph’s heading is sometimes done for you as an example.
+
+### Worked example (the “spices” passage)
+
+[[table:Matching-headings answers (spices passage)]]
+| Paragraph | Main idea | Heading |
+| A | what spices are used for, broadly | Uses of spices |
+| B | who controlled the trade over time (Muslims → Portuguese → British/Dutch) | The changing leaders |
+| C | spices drove the world economy; hard to underestimate | The significance of spices |
+| D/E | three uses: medicine, flavour, colour | The way spices are used |
+| F | which countries produce spices (India, Vietnam, Indonesia, Iran, Sri Lanka) | The spice providers |
+| G | grinding loses flavour; whole spices retain it | Preserving flavour |
+
+## Matching People (or Names) to Statements
+
++ **Locate the name** in the passage (scan for capitalised names).
++ **Read what that person said** — watch for reporting verbs: *suggested, claimed, concluded, believed, argued*.
++ Match the **meaning** to the statement. There are usually **more statements than people**, and one person may be used more than once.
+
+### Worked example (the “handedness” passage)
+
+[[table:Matching people to findings]]
+| Person | Finding |
+| Brenda Milner | language is processed much more intensely in the left hemisphere (96% of people) |
+| Peter Hepper | the unborn baby prefers the side developing quicker, which influences brain development |
+| Michael Corballis | speech originated in gestures; the left brain (which controls the right hand) took over |
+
+## Matching Sentence Endings
+
++ You are given the **first half** of a sentence and a list of possible **endings** (more endings than questions).
++ Find the first half’s **location** in the passage (scan for its keywords/synonyms), then read forward to see how the sentence logically continues.
++ The correct ending is a **grammatical and logical** match, not just a topic match.
+
+## Completion Questions (Sentence, Summary, Notes, Table, Flow-chart)
+
++ The answers come **in order** within the passage.
++ **Check the word limit** (e.g. “NO MORE THAN TWO WORDS”, or “choose from the box”).
++ If a **box of words** is given, the words in the box are often paraphrased in the passage — match meaning, then check the grammar fits the gap.
++ For a **summary**, note that it usually covers **one part** of the passage, not the whole.
++ For **tables and flow-charts**, follow the logic/arrows; answers follow the passage order.
+
+## Multiple Choice
+
++ The question tells you **which paragraph(s)** to read — use that.
++ Eliminate options that are **contradicted**, **partly true**, or **not mentioned**.
++ The right answer is usually a **paraphrase** of the passage; wrong answers repeat passage words in a misleading way.
+
+## Short-Answer Questions
+
++ Word limit is strict (often 1–3 words).
++ The answer is a fact from the passage — a number, a name, a date — often found by scanning.
+
+Now practise: find one IELTS Reading test and answer **only** the True/False/Not Given questions. For each, write TRUE, FALSE or NOT GIVEN **and** the line of the passage that proves it. This forces Step 4 of the method.

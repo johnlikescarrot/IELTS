@@ -1,0 +1,106 @@
+# 15. The Speaking Test
+
+## Format and Timing
+
+The Speaking test lasts **11–14 minutes** (never less than 11, never more than about 14–15). It is the **same for Academic and General Training**, with the **same marking criteria**. You sit it **one-to-one with a single examiner** — face to face or, increasingly, by video link. Either way, **you must attend the test venue in person**.
+
+The Speaking test may take place on the same day as the other papers, or a few days before or after, depending on examiner availability. You will be notified of the time (usually by email/SMS about 48 hours before).
+
+## The Three Parts
+
+[[table:The three parts of the Speaking test]]
+| Part | What happens | Your job |
+| 1 (4–5 min) | The examiner asks general questions about familiar topics: home, family, work/study, hobbies, food, sport, travel | Answer personally and naturally; 3–4 sentences per answer |
+| 2 (3–4 min) | You get a **cue card** with a topic and bullet points, **1 minute** to prepare (you may write notes), then speak for **1–2 minutes** | Speak continuously; cover all the bullet points |
+| 3 (4–5 min) | The examiner asks **abstract** questions linked to the Part 2 topic | Give opinions; speak generally about people/society, not yourself |
+
++ **Part 1** is a warm-up; there are **no right or wrong answers**. It is designed to break the ice. Answer personally.
++ **Part 2** is your long turn. You are given paper and a pencil to make notes. You **may look at your notes** while speaking. You **cannot change the topic**, but you **may ask for clarification**.
++ **Part 3** is the “discussion”. Do **not** personalise — talk about what people generally do, believe or prefer, and explain your opinions.
+
+## Logistics and Frequently Asked Questions
+
++ **Your test is recorded** — this lets a second examiner mark it or handle a re-mark request. Speak clearly; do not be put off by the recorder.
++ **Identification:** bring the exact document you booked with. Booked with your ID → a passport will not be accepted, and vice versa.
++ **Dress:** you are not marked on clothes, but first impressions matter. Dress smartly and comfortably — do not arrive in beach wear.
++ **Devices:** phones, wallets and watches are taken from you. Time is shown on a screen. You may not wear even a plain watch.
++ **The examiner** is friendly but neutral: he or she will **not** agree or disagree with your opinions, will **not** tell you your score, and will **not** change a question you dislike (you may ask for clarification, though).
++ **Body language:** use moderate, natural gestures and facial expressions that **match** what you say, and keep **eye contact**. Do not sit rigidly — but do not gesture like you are fighting either.
++ **Do not memorise answers.** Memorised chunks are obvious (they repeat the same sentence whatever the question) and are penalised.
++ **If you have a speech condition** (e.g. a stammer), tell the centre when booking; the examiner will be informed and will take it into account.
++ **If you don’t know a topic:** it is acceptable to **use your imagination** — the examiner marks your language, not the truth of your story.
+
+# 16. The Four Band Criteria
+
+You are marked equally on four criteria:
+
+## 1. Fluency and Coherence
+
++ Speak at a **natural speed** — not so fast that you run away from the examiner (“a mile a minute”), not so slow that every word is a struggle.
++ **Minimise hesitation.** Examiners can tell the difference between pausing to **find ideas** (natural) and pausing to **find language** (costly).
++ **Connect your ideas** with sequencing and linking words: *first, then, also, however, although, on the other hand, as a result*.
++ You may use light **fillers** (*well, actually, to be honest*) to begin an answer — but not every sentence.
+
+## 2. Lexical Resource
+
++ Use a **range** of vocabulary and **choose words precisely**.
++ **Paraphrase the question** in your answer instead of echoing it:
+
+<<<
+Q: Have you ever travelled abroad?
+✓ Actually, I have been overseas to many countries.
+✗ Yes, I have travelled abroad to many countries. (repeats the question)
+>>>
+
++ Use **correct word forms**: *a successful businessman* (not “a success businessman”).
++ Idioms and everyday expressions are welcome; **avoid slang** and anything you are unsure of.
++ Keep Part 1 answers short but developed — about **3–4 sentences (30 seconds)**.
+
+## 3. Grammatical Range and Accuracy
+
++ Use grammar **correctly** and mix **simple, compound and complex** sentences.
++ **Follow the tense of the question.** A past-tense question deserves a past-tense answer; a future question deserves *will/going to*.
++ Simple sentences only → your Grammar band is capped at about 5.
++ **Never give one-word answers.** “Do you live in a flat or a house?” — “A house.” is a Band 5 answer. Always add a reason or detail.
+
+## 4. Pronunciation
+
++ Pronounce words **correctly and clearly**. Mispronunciation causes misunderstanding and lowers your score.
++ **Your accent is not judged.** British, American or your own — all are fine, as long as the words are clear. (In **Writing**, however, keep one consistent spelling style.)
++ Two sources of mispronunciation, from the course: (1) you **learned the word wrongly** from the start; (2) **interference from your mother tongue** (e.g. /p/↔/b/: *park* vs *bark*; /θ/↔/s/: *think* vs *sink*).
+
+### British vs American pronunciation
+
+[[table:Common British/American pronunciation differences]]
+| Word | British | American |
+| father, mother, sister, brother | drop the final /r/ | pronounce the /r/ |
+| internet, interview, disappointed, international | clear /t/ | “innernet”, “innerview”, “disappoin’ed” |
+| water, little | /t/ | flap: “wadder”, “liddle” |
+| ask | /ɑːsk/ | /æsk/ |
+| past | /pɑːst/ | /pæst/ |
+
+### The -ed ending (past tense pronunciation)
+
++ **/t/** after voiceless sounds: *washed, kissed, stopped, watched*.
++ **/d/** after voiced sounds: *played, arrived, called*.
++ **/ɪd/** after /t/ or /d/: *started, needed, decided*.
+
+<<<
+✗ I play-ed football.  ✗ I arrive-ed late.  ✗ He ask-ed me.
+✓ I played football.  ✓ I arrived late.  ✓ He asked me.
+>>>
+
+> TIP: Never add an extra syllable to a past verb. “Asked” is one syllable, “washed” is one syllable.
+
+### Word families (stress and vowel change)
+
+Learn these together — they look similar but sound different:
+
+<<<
+design / designation
+resign / resignation
+sign / signature
+nature / natural
+>>>
+
+Now practise: record yourself answering three Part 1 questions on your phone. Listen back and score yourself on the four criteria. Then re-record, fixing one criterion at a time.

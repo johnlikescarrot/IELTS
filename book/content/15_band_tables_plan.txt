@@ -1,0 +1,65 @@
+# 19. Band Scores and Study Plans
+
+## Your Target Band Decides the Plan
+
+Before planning, write down three numbers: your **current band** (use a full practice test), your **target band**, and the **date** of your test. The gap between current and target, divided by the “100 hours per half band” rule of thumb, tells you how many hours you need — and the date tells you how many per week.
+
+[[table:Study hours needed (rule of thumb)]]
+| Improvement | Approximate hours |
+| +0.5 band | ~100 hours |
+| +1.0 band | ~200 hours |
+| +1.5 bands | ~300 hours |
+| +2.0 bands | ~400 hours |
+
+> NOTE: These are averages for focused study. Some learners move faster, some slower. The point is to **plan realistically** — a candidate at Band 5 who wants Band 6.5 in one month needs to rethink either the target or the date.
+
+## Band Conversion Quick Reference
+
+[[table:Listening (Academic & GT) — correct answers → band]]
+| Band | 9 | 8.5 | 8 | 7.5 | 7 | 6.5 | 6 | 5.5 | 5 |
+| Answers | 39–40 | 37–38 | 35–36 | 32–34 | 30–31 | 26–29 | 23–25 | 18–22 | 16–17 |
+
+[[table:Academic Reading — correct answers → band]]
+| Band | 9 | 8.5 | 8 | 7.5 | 7 | 6.5 | 6 | 5.5 | 5 |
+| Answers | 39–40 | 37–38 | 35–36 | 33–34 | 30–32 | 27–29 | 23–26 | 19–22 | 15–18 |
+
+[[table:General Training Reading — correct answers → band]]
+| Band | 9 | 8.5 | 8 | 7.5 | 7 | 6.5 | 6 | 5.5 | 5 |
+| Answers | 40 | 39 | 37–38 | 36 | 34–35 | 32–33 | 30–31 | 27–29 | 23–26 |
+
+## How the Overall Band Is Calculated (Recap)
+
+Overall = average of the four component scores, rounded to the nearest half band: .25 → up to .5; .75 → up to the next whole band; .125 → down.
+
+**Strategy tip from the table:** your weakest component drags the average. Often the fastest overall gain comes from the component where you are losing the most marks — for most candidates that is **Writing** or **Speaking**.
+
+## A Four-Week Intensive Plan (for a test one month away)
+
+[[table:Four-week intensive plan]]
+| Week | Focus |
+| Week 1 | Foundations: Chapters 1–2, Listening technique (Ch. 3–4), 2 full Listening tests, learn 50 synonyms |
+| Week 2 | Reading: Chapters 6–8, one passage a day with the four-step method, 2 full Reading tests, learn topic vocabulary |
+| Week 3 | Writing: Chapters 10–14, one Task 1 and one Task 2 every day, study the model answers, learn trend language and linkers |
+| Week 4 | Speaking: Chapters 15–17, record yourself daily, one full mock test, review checklists and band tables |
+
+## An Eight-Week Plan (the recommended pace)
+
+[[table:Eight-week plan]]
+| Weeks | Focus |
+| 1–2 | IELTS overview, scores, Listening (all chapters + 3 tests), vocabulary foundation |
+| 3–4 | Reading (all chapters + 3 tests), daily skimming/scanning drills, synonym bank |
+| 5–6 | Writing Task 1 + Task 2 (all chapters + 6 essays with self-marking), grammar toolkit |
+| 7 | Speaking (all chapters + daily recording), model-answer study |
+| 8 | Full mock tests (2), timed, then review every mistake against the checklists |
+
+## Weekly Routine That Works
+
++ **Daily (30–60 min):** vocabulary (10 new words + review), 15 minutes of listening, read one news article and skim/scan it.
++ **Every two days:** one timed Reading passage or one Writing task, self-marked against the descriptors.
++ **Weekly:** one full timed Listening test and one full timed Reading test; record yourself speaking twice.
+
+## A Note on Motivation
+
+The source course closes with its students’ own testimony: the test is **attainable** — “everything is attainable if we do the effort.” Band 9 is possible, half-band improvements are real, and the difference between candidates is almost always **organised, consistent practice**, not talent. Plan, then practise.
+
+Now practise: write your own weekly timetable for the next four weeks, with a specific task for every day. Put it where you will see it.

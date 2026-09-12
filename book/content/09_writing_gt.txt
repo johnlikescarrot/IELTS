@@ -1,0 +1,124 @@
+# 12. Writing Task 1 — General Training (The Letter)
+
+## What Task 1 Is (GT)
+
+You write a **letter** of at least **150 words** (aim 160–180) in about **20 minutes**. It is a letter, **not** an email and **not** an essay. The prompt describes a situation and gives you **three bullet points** that you must cover.
+
+You may need to:
+
++ respond to a situation or explain a problem;
++ provide or ask for **factual information**;
++ express **needs, likes, dislikes or opinions**;
++ write a **personal** message.
+
+## The Three Tones
+
+[[table:Formal, semi-formal and informal letters]]
+| Tone | Who you write to | Salutation | Closing |
+| Formal | Someone whose name you don’t know | Dear Sir or Madam | Yours faithfully |
+| Semi-formal | Someone whose name you know (e.g. your manager, a landlord, a teacher) | Dear Mr Smith / Dear Dr David | Yours sincerely |
+| Informal | A friend or relative | Dear John, | Best wishes / Best regards / Kind regards / Love |
+
+> WARNING: Choosing the wrong tone — or **switching tone** halfway (formal opening, chatty body, formal ending) — loses marks and can cap your score at about Band 5. Decide the tone **before** you write, and keep it the whole way through.
+
+- You do **not** need to write any addresses.
+- You may **invent** details (a name, dates, examples) — the examiner judges your language, not your facts.
+
+## The Five-Paragraph Structure
+
+The course teaches a fixed, safe structure:
+
+1. **Introduction** — salutation + opening + your **purpose** (“I am writing to…”).
+2. **Body 1** — bullet point 1 (begin with a **topic sentence**).
+3. **Body 2** — bullet point 2.
+4. **Body 3** — bullet point 3.
+5. **Conclusion** — a **concluding sentence** + the closing.
+
+> REMEMBER: Cover **all three bullet points**, in order, one per body paragraph. Miss a bullet point and you cap your score at about Band 5. Write in **full sentences** — never bullet points.
+
+## Purpose Phrases (the introduction)
+
+<<<
+I am writing to inform you about … / to complain about … / to draw your attention to …
+I am writing in connection with … / with regard to …
+I am writing to express my concerns about …
+>>>
+
+## Openings (the first line after the salutation)
+
+[[table:Openings by tone]]
+| Tone | Opening |
+| Formal | I am writing to explain … / I am writing in connection with … |
+| Semi-formal | I am writing with regard to your recent … |
+| Informal | It was great seeing you last week. / It has been ages since I last saw you. / Thanks very much for your lovely letter. |
+
+## Concluding Sentences
+
+[[table:Concluding sentences by purpose]]
+| Purpose | Concluding sentence |
+| General (informal) | I look forward to hearing from you soon. |
+| Complaint (formal) | I trust the situation will be resolved shortly. |
+| Request/thanks | Thank you very much for your attention. / I would be grateful if you could … |
+
+## Model Letter 1 — Formal (Public Library Improvements)
+
+**Task:** *Your local public library wants to make improvements to its services and has asked users for written suggestions. Write a letter to the library. In your letter: describe what you like about the library; say what you don’t like; make suggestions for improvements.*
+
+<<<
+Dear Sir or Madam,
+
+I am writing in response to your request for suggestions about how the library’s services could be improved. As a regular user, I would like to share my views.
+
+First of all, I would like to say how much I value the library. The staff are always helpful, the study area is quiet, and I particularly appreciate the wide range of fiction available. It has genuinely become my favourite place to study.
+
+However, I do have one or two concerns. The computers are frequently occupied, which means visitors often have to wait, and I feel that the children’s section, although popular, is rather cramped and can become very noisy.
+
+I would therefore like to suggest two improvements. Firstly, it would be helpful if more computers could be installed. Secondly, if the children’s area were relocated to a larger room, the library would be quieter for everyone. I hope you will consider these ideas.
+
+Thank you very much for your attention.
+
+Yours faithfully,
+A. Candidate
+>>>
+
+## Model Letter 2 — Semi-formal (Public Transport Problems)
+
+**Task:** *There have been some problems with the public transport in your area recently. Write a letter to the manager of the transport company. In your letter: describe the problems; explain how they are affecting people; suggest what could be done.*
+
+<<<
+Dear Mr Thomas,
+
+I am writing to draw your attention to a number of problems with the bus service in my area, which have become worse over the past month.
+
+To begin with, the number 14 bus, which I take to work every morning, is now frequently late, and on several occasions it has not arrived at all. This forces passengers to wait at the stop for up to forty minutes, often in poor weather. As a result, many of us have been arriving late for work, and some residents who rely on the service for hospital appointments have missed them entirely.
+
+I understand that the company may be short of drivers, but I believe the situation could be improved in two ways. Firstly, an updated timetable, showing the reduced service accurately, would help passengers plan their journeys. Secondly, running an extra bus during the morning rush hour would make a real difference.
+
+I trust the situation will be resolved shortly, and I look forward to hearing from you.
+
+Yours sincerely,
+B. Candidate
+>>>
+
+## Model Letter 3 — Informal (Inviting a Friend)
+
+**Task:** *A friend is coming to stay with you for a week. Write a letter to your friend. In your letter: explain how to get to your home; suggest things you could do together; ask about any food they cannot eat.*
+
+<<<
+Dear Sam,
+
+It was great hearing from you, and I’m so excited that you’re coming to stay!
+
+Getting here is easy: take the train to Central Station and then the number 7 bus towards Riverside. Get off at the park stop, and my flat is the red-brick building right next to the bakery — third floor, flat 12. Text me when you arrive and I’ll come down.
+
+I’ve planned a few things I think you’ll love. We could spend a day by the river, and there’s a great little market on Saturday morning. I’ve also booked tickets for that exhibition you mentioned — you’ll love it!
+
+One thing — is there anything you don’t eat? I’m planning to cook a few of my “specialities”, so let me know if you’re avoiding anything.
+
+Can’t wait to see you!
+
+Best wishes,
+C. Candidate
+>>>
+
+Now practise: write one formal letter and one informal letter for the same situation (e.g. a problem with a neighbour). Compare how the tone changes every phrase — greeting, openings, linkers and closings.
