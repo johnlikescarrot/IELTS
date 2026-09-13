@@ -1,0 +1,134 @@
+{
+  "title": "THE COMPLETE IELTS MASTER BOOK",
+  "subtitle": "A comprehensive preparation course for Listening, Reading, Writing and Speaking",
+  "cover_lines": [
+    "Compiled from the 12-lesson IELTS Master Course video series",
+    "Full practice tests  |  Model answers  |  Grammar and vocabulary reference"
+  ],
+  "chapters": [
+    {
+      "file": "ch01_at_a_glance.md",
+      "title": "IELTS at a Glance"
+    },
+    {
+      "file": "ch02_descriptors.md",
+      "title": "Band Descriptors Decoded"
+    },
+    {
+      "file": "ch03_plans.md",
+      "title": "Study Plans"
+    },
+    {
+      "file": "ch04_grammar.md",
+      "title": "Core Grammar for Band 7+"
+    },
+    {
+      "file": "ch05_vocabulary.md",
+      "title": "Vocabulary and Paraphrase"
+    },
+    {
+      "file": "ch06_listening_types.md",
+      "title": "Listening: Question Types"
+    },
+    {
+      "file": "ch07_listening_skills.md",
+      "title": "Listening: Micro-Skills"
+    },
+    {
+      "file": "ch08_listening_test1.md",
+      "title": "Listening Practice Test 1"
+    },
+    {
+      "file": "ch09_reading_types.md",
+      "title": "Reading: Question Types"
+    },
+    {
+      "file": "ch10_reading_skills.md",
+      "title": "Reading: Skills and Strategy"
+    },
+    {
+      "file": "ch11_reading_test1.md",
+      "title": "Reading Practice Test 1"
+    },
+    {
+      "file": "ch12_reading_test1_keys.md",
+      "title": "Reading Test 1: Answers"
+    },
+    {
+      "file": "ch13_writing_task1.md",
+      "title": "Writing Task 1: Data"
+    },
+    {
+      "file": "ch14_writing_task2.md",
+      "title": "Writing Task 2: Essays"
+    },
+    {
+      "file": "ch15_writing_band_compare.md",
+      "title": "Band 6, 7 and 8 Compared"
+    },
+    {
+      "file": "ch16_errors_cohesion.md",
+      "title": "Errors and Repair"
+    },
+    {
+      "file": "ch17_gt_writing.md",
+      "title": "General Training Writing"
+    },
+    {
+      "file": "ch18_speaking_part1.md",
+      "title": "Speaking Part 1"
+    },
+    {
+      "file": "ch19_speaking_part2.md",
+      "title": "Speaking Part 2"
+    },
+    {
+      "file": "ch20_speaking_part3.md",
+      "title": "Speaking Part 3"
+    },
+    {
+      "file": "ch21_pronunciation.md",
+      "title": "Pronunciation"
+    },
+    {
+      "file": "ch22_listening_test2.md",
+      "title": "Listening Practice Test 2"
+    },
+    {
+      "file": "ch23_reading_test2.md",
+      "title": "Reading Practice Test 2"
+    },
+    {
+      "file": "ch24_mock_writing_speaking.md",
+      "title": "Mock Writing and Speaking"
+    },
+    {
+      "file": "ch25_exam_playbook.md",
+      "title": "The Exam-Day Playbook"
+    },
+    {
+      "file": "ch26_ten_model_essays.md",
+      "title": "Ten Model Essays"
+    },
+    {
+      "file": "ch27_reading_test3.md",
+      "title": "Reading Practice Test 3"
+    },
+    {
+      "file": "appendix_a_language.md",
+      "title": "Appendix A: Language Reference"
+    },
+    {
+      "file": "appendix_b_topic_vocab.md",
+      "title": "Appendix B: Topic Vocabulary"
+    },
+    {
+      "file": "appendix_c_course.md",
+      "title": "Appendix C: Master Course Companion"
+    },
+    {
+      "file": "appendix_d_prompts.md",
+      "title": "Appendix D: Practice Prompts"
+    }
+  ]
+}
